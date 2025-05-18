@@ -1,0 +1,27 @@
+.botaoSalvar{
+ background:rgba(252, 252, 252, 0) ;
+  padding: 10px 20px;
+  font-weight: bold;
+
+}
+.botaoNovo {
+    background:rgba(255, 255, 255, 0) ;
+  padding: 10px 20px;
+  font-weight: bold;
+
+}
+.desabilitado{
+    background-color: rgb(204, 204, 204);
+    
+}
+
+td img.imgTabela {
+    width: 30px;
+    height: 30px;
+    
+}
+.topo{
+
+  text-align: center;
+  padding-top: 50px;
+}
