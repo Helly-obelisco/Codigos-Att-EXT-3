@@ -128,7 +128,7 @@
         <div class="container mt-4">
             <div class=" text-whinte text-center p-3 cabe"
     <h2>Feito Por Helly Fabio Tavares Franco</h2>
-    <p>Atividade feita para o projeto de extenção.</p>
+    <p>Atividade feita para o projeto de extensão.</p>
     
         </div>
 
